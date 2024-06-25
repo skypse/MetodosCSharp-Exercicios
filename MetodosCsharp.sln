@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodosCsharp06", "MetodosC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodosCsharp07", "MetodosCsharp07\MetodosCsharp07.csproj", "{F2E8DAF6-5EB9-40CA-942B-87717BB46D4D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodosCsharp08", "MetodosCsharp08\MetodosCsharp08.csproj", "{C0DB23B5-03CC-4B7A-9A93-55F868401D77}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{F2E8DAF6-5EB9-40CA-942B-87717BB46D4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2E8DAF6-5EB9-40CA-942B-87717BB46D4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2E8DAF6-5EB9-40CA-942B-87717BB46D4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0DB23B5-03CC-4B7A-9A93-55F868401D77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0DB23B5-03CC-4B7A-9A93-55F868401D77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0DB23B5-03CC-4B7A-9A93-55F868401D77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0DB23B5-03CC-4B7A-9A93-55F868401D77}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
