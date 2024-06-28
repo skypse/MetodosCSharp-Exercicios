@@ -33,6 +33,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetodosCsharp14", "MetodosC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodosCsharp15", "MetodoCsharp15\MetodosCsharp15.csproj", "{B5DEAC8E-9B41-433D-9C05-CC9FCF6E4CE2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodosCsharp16", "MetodosCsharp16\MetodosCsharp16.csproj", "{2F937AAE-E8AE-473E-AB27-3271A08801B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{B5DEAC8E-9B41-433D-9C05-CC9FCF6E4CE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5DEAC8E-9B41-433D-9C05-CC9FCF6E4CE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5DEAC8E-9B41-433D-9C05-CC9FCF6E4CE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F937AAE-E8AE-473E-AB27-3271A08801B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F937AAE-E8AE-473E-AB27-3271A08801B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F937AAE-E8AE-473E-AB27-3271A08801B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F937AAE-E8AE-473E-AB27-3271A08801B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
