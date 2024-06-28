@@ -29,7 +29,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetodosCsharp12", "MetodosC
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetodosCsharp13", "MetodosCsharp13\MetodosCsharp13.csproj", "{972281F1-F4C5-4BD4-AB48-56AC6A0EF090}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodosCsharp14", "MetodosCsharp14\MetodosCsharp14.csproj", "{2EE4B0E5-FC7C-423F-BCF1-063FE07D4A6D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetodosCsharp14", "MetodosCsharp14\MetodosCsharp14.csproj", "{2EE4B0E5-FC7C-423F-BCF1-063FE07D4A6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodosCsharp15", "MetodoCsharp15\MetodosCsharp15.csproj", "{B5DEAC8E-9B41-433D-9C05-CC9FCF6E4CE2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{2EE4B0E5-FC7C-423F-BCF1-063FE07D4A6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2EE4B0E5-FC7C-423F-BCF1-063FE07D4A6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2EE4B0E5-FC7C-423F-BCF1-063FE07D4A6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5DEAC8E-9B41-433D-9C05-CC9FCF6E4CE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5DEAC8E-9B41-433D-9C05-CC9FCF6E4CE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5DEAC8E-9B41-433D-9C05-CC9FCF6E4CE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5DEAC8E-9B41-433D-9C05-CC9FCF6E4CE2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
