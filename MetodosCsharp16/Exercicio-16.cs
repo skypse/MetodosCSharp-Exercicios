@@ -14,8 +14,10 @@ namespace MetodosCsharp16
         {
             if (numero <= 1) 
                 return false;
+            // verificar divisores de 2 até a raiz quadrada do número
             for (int i = 2; i <= Math.Sqrt(numero); i++)
             {
+                // se encontrar, número não é primo!
                 if (numero % i == 0) 
                     return false;
             }
