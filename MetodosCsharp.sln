@@ -31,17 +31,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetodosCsharp13", "MetodosC
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetodosCsharp14", "MetodosCsharp14\MetodosCsharp14.csproj", "{2EE4B0E5-FC7C-423F-BCF1-063FE07D4A6D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetodosCsharp15", "MetodoCsharp15\MetodosCsharp15.csproj", "{B5DEAC8E-9B41-433D-9C05-CC9FCF6E4CE2}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetodosCsharp16", "MetodosCsharp16\MetodosCsharp16.csproj", "{2F937AAE-E8AE-473E-AB27-3271A08801B5}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetodosCsharp17", "MetodosCsharp17\MetodosCsharp17.csproj", "{B342CC84-8D69-4999-B97B-273760647EBA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodosCsharp18", "MetodosCsharp18\MetodosCsharp18.csproj", "{88311593-1D5D-493F-855B-7945EFBE4D88}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetodosCsharp18", "MetodosCsharp18\MetodosCsharp18.csproj", "{88311593-1D5D-493F-855B-7945EFBE4D88}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodosCsharp19", "MetodosCsharp19\MetodosCsharp19.csproj", "{7DCC5BBA-9F56-4ED3-A4CD-B9B6C0780440}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetodosCsharp19", "MetodosCsharp19\MetodosCsharp19.csproj", "{7DCC5BBA-9F56-4ED3-A4CD-B9B6C0780440}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodosCsharp20", "MetodosCsharp20\MetodosCsharp20.csproj", "{534297B2-D564-4957-8902-3DE711718934}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetodosCsharp20", "MetodosCsharp20\MetodosCsharp20.csproj", "{534297B2-D564-4957-8902-3DE711718934}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodosCsharp15", "MetodosCsharp15\MetodosCsharp15.csproj", "{F3730EE6-7B63-465F-98AC-51150647B3DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,10 +105,6 @@ Global
 		{2EE4B0E5-FC7C-423F-BCF1-063FE07D4A6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2EE4B0E5-FC7C-423F-BCF1-063FE07D4A6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2EE4B0E5-FC7C-423F-BCF1-063FE07D4A6D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B5DEAC8E-9B41-433D-9C05-CC9FCF6E4CE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B5DEAC8E-9B41-433D-9C05-CC9FCF6E4CE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B5DEAC8E-9B41-433D-9C05-CC9FCF6E4CE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B5DEAC8E-9B41-433D-9C05-CC9FCF6E4CE2}.Release|Any CPU.Build.0 = Release|Any CPU
 		{2F937AAE-E8AE-473E-AB27-3271A08801B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{2F937AAE-E8AE-473E-AB27-3271A08801B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F937AAE-E8AE-473E-AB27-3271A08801B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -129,6 +125,10 @@ Global
 		{534297B2-D564-4957-8902-3DE711718934}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{534297B2-D564-4957-8902-3DE711718934}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{534297B2-D564-4957-8902-3DE711718934}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3730EE6-7B63-465F-98AC-51150647B3DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3730EE6-7B63-465F-98AC-51150647B3DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3730EE6-7B63-465F-98AC-51150647B3DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3730EE6-7B63-465F-98AC-51150647B3DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
